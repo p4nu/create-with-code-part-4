@@ -1,7 +1,7 @@
 # Create with Code 2020 - Gameplay Mechanics
 
 ## What is this?
-This is part 4 of Create with Code 2020 course in Unity Learn using programming patterns Observer and State.
+This is part 4 of Create with Code 2020 course in Unity Learn using programming patterns [Observer](https://docs.microsoft.com/en-us/dotnet/standard/events/observer-design-pattern) and [State](https://medium.com/net-core/how-to-manage-states-with-state-design-pattern-in-c-d4ca47ec6aa).
 
 ## How to install?
 1. Clone repo in a wanted directory.
